@@ -1,5 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
-<h1 align="center">Hi 👋, I'm kamal verma</h1>
+<h1 align="center">Hi 👋, I'm Shubham Chaubey</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20MERN%20Developer;&center=true&width=700&height=50">
 </p>
@@ -9,17 +9,17 @@
 
 - 🌱 I’m currently learning *React.js node.js and Database*
 
-- 👨‍💻 All of my projects are available at [https://thisiskmv.github.io/](https://thisiskmv.github.io/)
+- 👨‍💻 All of my projects are available at [https://Shubham10320.github.io/](https://Shubham10320.github.io/)
 
 - 💬 Ask me about *React.js Node.js HTML CSS JavaScript & JAVA*
 
-- 📫 How to reach me *thisiskmv@gmail.com*
+- 📫 How to reach me *schaubey10320000@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tqO6N7mu2UwSY8CxzUEoCThGq8uA49Fv/view](https://drive.google.com/file/d/1tqO6N7mu2UwSY8CxzUEoCThGq8uA49Fv/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1MExAqYTVxmNhygtM_fBP6GL6FmicgKOH/view?usp=sharing](https://drive.google.com/file/d/1MExAqYTVxmNhygtM_fBP6GL6FmicgKOH/view?usp=sharing)
 
 ## 🏆 Trophies :
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisiskmv&theme=onedark" alt="vishalll069" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubham10320&theme=onedark" alt="Shubham" /></a> </p>
 
 ## 👨‍💻 TECH STACK :
 
@@ -48,33 +48,33 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap;">
 
-<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=thisiskmv&theme=neon&border_radius=2.7&show_icons=true" alt="thisiskmv" />
+<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=Shubham10320&theme=neon&border_radius=2.7&show_icons=true" alt="Shubham10320" />
   
-<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisiskmv&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D" alt="thisiskmv" />
+<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham10320&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D" alt="Shubham10320" />
   
-<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisiskmv&theme=neon&border_radius=2.7" alt="thisiskmv" />
+<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham10320&theme=neon&border_radius=2.7" alt="Shubham10320" />
   
 </div>
 
 <h2>🌍 Connect with me :</h2>
    <p align="left">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/bharat-shaw-4b5b76274/" target="blank">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shubham-chaubey-a232a7241" target="blank">
             <img align="center"
                 src="https://img.icons8.com/3d-fluency/94/linkedin.png"
-                alt="https://www.linkedin.com/in/kamal-verma-b89a2925a/" width="40px" />
+                alt="https://www.linkedin.com/in/shubham-chaubey-a232a7241/" width="40px" />
         </a>
-        <a href="https://github.com/Bharat-Shaw" target="blank">
+        <a href="https://github.com/Shubham10320" target="blank">
             <img align="center"
                 src="https://img.icons8.com/3d-fluency/94/github.png"
-                alt="https://github.com/thisiskmv" width="40px"/>
+                alt="https://github.com/Shubham10320" width="40px"/>
         </a>
     </p>
     <h2>❤ Views and Followers :</h2>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Bharat-Shaw/github-profile-views-counter">
-        <img src="https://komarev.com/ghpvc/?username=thisiskmv" >
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Shubham10320/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=Shubham10320" >
     </a>
-    <a href="https://github.com/Bharat-Shaw?tab=followers">
-        <img src="https://img.shields.io/github/followers/thisiskmv?label=Followers&style=social" alt="GitHub Badge">
+    <a href="https://github.com/Shubham10320?tab=followers">
+        <img src="https://img.shields.io/github/followers/Shubham10320?label=Followers&style=social" alt="GitHub Badge">
     </a>
     <hr />
-    <h2><a href="https://thisiskmv.github.io/">🌍 | Portfolio </a></h2>
+    <h2><a href="https://Shubham10320.github.io/">🌍 | Portfolio </a></h2>
